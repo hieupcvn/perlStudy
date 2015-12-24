@@ -1,0 +1,7 @@
+List book about perl need to read
+1. Perl practice - reread
+2. Learning Perl: Making Easy Things Easy & Hard Things Possible
+3. Programming Perl: Unmatched Power for Text Processing and Script
+4. Mastering Algorithms with Perl
+5. Intermediate Perl
+6. CGI programing with perl
